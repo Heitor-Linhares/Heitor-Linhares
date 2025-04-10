@@ -9,7 +9,7 @@ I'm passionate about learning new technologies and building useful (and sometime
 - And for extra challenge: **German** 🇩🇪
 
 ## 🖥️ My Current Setup
-- 🐧 **Arch Linux** (yes, I use Arch BTW) with **GNOME**
+- 🐧 **Arch Linux** (yes, I use Arch BTW) with **GNOME** and **hyprland**
 - 🪟 Also dual-booting with **Windows 11** for when games demand it
 - 🛸 **LunarVim** is my editor of choice — because regular Vim just wasn’t enough pain
 
