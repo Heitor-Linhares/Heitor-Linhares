@@ -4,7 +4,7 @@ I'm a 16-year-old **programming student** based in **Sumaré - SP, Brazil**.
 I'm passionate about learning new technologies and building useful (and sometimes just fun) stuff.
 
 ##  What I'm Learning
-- **C#** and **Python**
+- **javascript** and **Python**
 - **Website** and **Desktop App** development
 - And for extra challenge: **German** 
 
